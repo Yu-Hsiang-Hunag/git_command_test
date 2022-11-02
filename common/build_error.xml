@@ -1,0 +1,24 @@
+<FWpackagecreator>
+    <error code="0" message=""/>
+    <error code="1" message="General Error"/>
+    <error code="5" message="Error generate SPKG header"/>
+    <error code="6" message="Error generate CWE header"/>
+    <error code="7" message="Error generate Winrar package"/>
+    <error code="8" message="Error generate Test script"/>
+    <error code="9" message="Error generate NVUP file"/>
+    <error code="10" message="Error generate exception file"/>
+    <error code="11" message="Error generate sign file"/>
+    <error code="15" message="Invalid package string"/>
+    <error code="16" message="Unable to map network drive"/>
+    <error code="20" message="Missing NVExtra file"/>
+    <error code="21" message="Missing NVConfig file"/>
+    <error code="22" message="Missing EFSConfig file"/>
+    <error code="23" message="Missing NVUP file"/>
+    <error code="24" message="Missing Parser tool"/>
+    <error code="25" message="Missing Firmware file"/>
+    <error code="26" message="Missing Private Key File"/>
+    <error code="27" message="Missing Plink tool"/>
+    <error code="28" message="Incorrect file number"/>
+    <error code="29" message="Missing virus scan tool"/>
+    <error code="30" message="Error virus scan fail"/>
+</FWpackagecreator>
